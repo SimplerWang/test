@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="D:/repository/com/newretail/order-model/1.0.0-SNAPSHOT/order-model-1.0.0-SNAPSHOT.jar!/com/newretail/order/model/req/orderrequisition/StoreRequisitionSaveReq.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-inventory/inventory-client/src/main/java/com/newretail/inventory/client/InventorySearchClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-inventory/inventory-model/src/main/java/com/newretail/inventory/model/dto/StoreGoodsDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-inventory/inventory-model/src/main/java/com/newretail/inventory/model/req/StoreGoodsReq.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-inventory/inventory-service/src/main/java/com/newretail/inventory/dao/StockBatchMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-inventory/inventory-service/src/main/resources/mapper/StockBatchMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-inventory/inventory-web/src/main/java/com.newretail.inventory/controller/InventorySearchController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-model/src/main/java/com/newretail/order/enums/OrderLogEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-model/src/main/java/com/newretail/order/model/req/orderrequisition/AddGoodsReq.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-model/src/main/java/com/newretail/order/model/req/orderrequisition/StoreGoodsReq.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-model/src/main/java/com/newretail/order/model/req/orderrequisition/StoreRequisitionDetailSaveReq.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-model/src/main/java/com/newretail/order/model/req/orderrequisition/StoreRequisitionSaveReq.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-model/src/main/java/com/newretail/order/model/vo/OrderRequisitionDetailVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-service/src/main/java/com/newretail/order/dao/OrderRequisitionDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-service/src/main/java/com/newretail/order/dao/OrderRequisitionDetailDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-service/src/main/java/com/newretail/order/service/OrderTransferService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-service/src/main/java/com/newretail/order/service/StoreRequisitionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-service/src/main/resources/mapper/OrderRequisitionDetailMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-service/src/main/resources/mapper/OrderRequisitionMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../newretail-order/order-web/src/main/java/com/newretail/order/controller/StoreRequisitionController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

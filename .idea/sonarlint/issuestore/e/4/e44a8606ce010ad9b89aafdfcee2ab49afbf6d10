@@ -1,0 +1,7 @@
+
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ªŒáÂþÿÿÿÿ8ÕÛ—¹î,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªŒáÂþÿÿÿÿ8²¹¤¹î,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôØÒ8ÕÛ—¹î,
+Xsquid:UnusedPrivateMethod",Remove this unused private "test001" method.(ùáÒµ8ÕÛ—¹î,
